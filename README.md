@@ -21,8 +21,8 @@ This project is a full-stack eCommerce platform built with Next.js, React, Redux
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/ecommerce-platform.git
-   cd ecommerce-platform
+   git clone https://github.com/nusrafath/nextjs-ecommerce-redux-bounty.git
+   cd nextjs-ecommerce-redux-bounty
    ```
 
 2. Install dependencies:
